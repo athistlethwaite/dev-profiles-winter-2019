@@ -1,0 +1,40 @@
+
+body {
+    background-color: pink;
+    background-image: linear-gradient(#DB7093, #FFD1DC);
+    background: cover; 
+    font-family: 'Times New Roman';
+    font-weight: normal;
+    font-size: 20px;
+    text-align: justify; 
+    margin: 40px;
+    padding: 30px;
+    text-color: purple;
+    letter-spacing: 3px;
+
+}
+
+h1  {
+    color: purple;
+  
+}
+h2 {
+    color: purple;
+  
+   
+}
+
+
+ol {
+    font-weight: normal;
+
+}
+
+ul {
+
+}
+
+p {
+    font-family: 'Times New Roman';
+    
+}

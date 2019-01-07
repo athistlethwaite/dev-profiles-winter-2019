@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+body {
+    background-color: rgb(248, 248, 241);
+    color: black;
+    font-family: arial;
+    margin: 10;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    line-height: normal;
+    font-family: papyrus;
+    font-size: 40px;
+    color: darkred;
+}
+
+h2 {
+    color: darkred;
+    font-family: papyrus;
+    margin: 10px;
+    padding: 0;
+    font-weight: bolder;
+    text-align: center;
+}
+
+h3 {
+    color: darkred;
+    font-family: papyrus;
+    line-height: normal;
+    margin: 10;
+    padding: 0;
+    font-weight: bolder;
+    text-align: center;
+}
+
+p {
+    color: maroon;
+    margin: 10px;
+    padding: 10px;
+    font-family: papyrus;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+
+

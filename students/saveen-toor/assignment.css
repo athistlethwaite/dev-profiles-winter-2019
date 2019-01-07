@@ -1,0 +1,45 @@
+body{
+    background-color: lavenderblush;
+    background-image: url('saveen.jpg');
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+    background-size: 500px;
+}
+table{
+    border: 1px solid black;
+    width:50%;
+    height:50%;
+    background-color: linen;
+}
+td{
+    border: 1px solid black;
+}
+p{
+    color:red;
+}
+li{
+    color:black;
+}
+.width50{
+    width: 50%;
+}
+img{
+    top: body;
+}
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+  }
+
+.oddrow{
+      background-color: lavenderblush;
+  }
+
+  .evenrow{
+      background-color: #CDCDCD;
+  }
+
+  th{
+      background-color: lavenderblush;
+      color:black;
+  }

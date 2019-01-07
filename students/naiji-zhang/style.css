@@ -1,0 +1,42 @@
+body {
+	background:url(./picture.jpg);
+	background-size:100%;
+	background-repeat: no-repeat;
+}
+body #header{
+    opacity: 0.6;
+    margin-left: 250px;
+    margin-top: 150px
+    }
+
+body #container{	
+    background-color:black;	
+    opacity: 0.3;	
+    width:1000px;   	
+    height: 400px;   	
+    margin:0 auto;	
+    margin-top:50px;        
+    border-radius:20px;}
+body #container-inner{
+    margin: 20px;
+    margin-top: 20px
+    }
+
+body #container-inner p {
+    color: antiquewhite;
+    font-family: Arial;
+
+  }
+
+  h1 {
+    color: black;
+    font-family: Arial;
+
+  }
+
+  body #container-inner h1 {
+      margin-top: 20px;
+    color: antiquewhite;
+    font-family: Arial;
+
+  }

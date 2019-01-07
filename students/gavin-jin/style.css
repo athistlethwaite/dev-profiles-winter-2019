@@ -1,0 +1,17 @@
+body {
+    background:url(img/pattern.jpg) no-repeat center center fixed;
+    background-size:cover;
+}
+
+.img-me {
+    width: 300px;
+}
+.red-text {
+    color: red;
+}
+.hometown {
+    display: flex;
+}
+.hometown-text {
+    margin-top: 0;
+}
